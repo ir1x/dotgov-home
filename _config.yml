@@ -7,7 +7,7 @@ description: Home of the DotGov.gov program, which operates the .gov DNS registr
 
 # GA and GitHub data
 google_analytics_ua: UA-99995535-1
-repo: https://github.com/GSA/dotgov-home
+repo: https://github.com/ir1x/dotgov-home
 
 exclude:
 - CONTRIBUTING.md
